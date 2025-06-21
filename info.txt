@@ -1,0 +1,55 @@
+Data Manipulation :
+    def - changing, organizing or preparing data to make it useful and easier to understand
+    goal - to clean, transform and structure raw data for better usability.
+    ex - Organizing a grocery list- sorting items.
+         Fixing errors in a student record - coreect missing and wrong grades.
+
+Data Analysis :
+    def- Extracting patterns, trends and insights from the data to solve problems.
+    goal - to answer question or identify trends using the dara.
+    ex - Analyzing sales and trends: finding month with the highest revenue.
+         Tracking Fitness Progress: Analyzing daily steps and calories.
+
+
+                        Key diffrences -->
+
+
+        Data manipulation - 1.preparing and cleaning data.
+                            2.organse and structure raw data.
+                            3.fixing erros in a students grade sheet.
+
+        Data Analysis - 1.extracting insights from prepared data.
+                        2.find patterns, trends, and solve problems.
+                        3.analyzing which student scores the highest.
+
+
+ABOUT PANDAS ->
+Pandas created by Wes McKinney in 2008.
+used for analyzing large financial datasets.
+existing tools like excel ere efficient for large sacle data cleaning and Analysis.
+
+What is Pandas?
+:-> Pandas is powerful and popular python library designed for data manipulation(cleaning, transforming and structuring data) and data analysis(finding patterns, trends and insights).
+It simplifies working with structured datasets like tables, spreadsheets or time series data.
+
+
+Key Features ----->
+a) work seamlessly with structured data formats like csv and excel.
+b) Handles missing values easily.
+c)Built on Numpy for fast computations.
+
+Why use Pandas?------>
+a)Performance: Handles millions of rows efficiently.
+b) Ease of use: Beginner friendly syntax for cleaning and transforming data.
+c) Integration: Works with libraries like Matplotlib(visualizations) and Scikit-Learn.
+
+
+
+
+Real Life Examples of Pandas in Action-->
+Finance
+>Analyzing time-series data like stock prices to identify market trends.
+Retail
+>Tracking inventory and finding the most sold products in a store.
+Healthcare
+>Analyzing patients records and outcomes from critical trials.

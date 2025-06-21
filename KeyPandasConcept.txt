@@ -1,0 +1,11 @@
+Series :->
+Series: A series is a one dimensional labelled array that can hold any type of data type: Integers, floats, strings, or even Python objects.Each elements in the series has a unique label called an index.
+
+It is often used to track changes or patterns over time, such as daily temperatures, stock prices, or sales revenue.
+
+
+DataFrames:->
+A DataFrames is a two-dimensional labeled data structure in pandas, similar to the table in a database,an excel spreadsheets or a sql table.
+It Consists of rows and columns where:
+  a) Rows have indices(labels).
+  b) Columns have names(labels).
