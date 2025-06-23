@@ -1,0 +1,4 @@
+XML - eXtensible Markup Language
+markup language as same as HTML.
+designed to transport and store data.
+XML was designed to be self descriptive.
