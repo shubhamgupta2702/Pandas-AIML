@@ -1,0 +1,4 @@
+Dataframes - multiple columns or multiple rows is called dataframes.
+rows >= 1; columns>=1.
+
+Series - only one row or only one column is called series.
